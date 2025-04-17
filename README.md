@@ -1,23 +1,14 @@
 # Velos
 
-Velos is a luxurious and modern online clothing store built for global dropshipping. It offers a smooth, mobile-friendly shopping experience with Razorpay integration and guest checkout.
+Velos is more than a clothing store — it's a movement.  
+We bring you fashion that's not just stylish, but meaningful.
 
-## Features
+## What We’re About
+- **Modern, luxurious fashion** for everyday comfort  
+- **Curated looks** that make a statement  
+- **Global dropshipping** — wherever you are, we got you  
+- **Giving back** — a part of every sale goes to helping those in need
 
-- Elegant, high-end UI
-- Mobile responsive design
-- Guest checkout + user account creation
-- Razorpay payment gateway
-- Worldwide shipping support
+---
 
-## Tech Stack
-
-- Frontend: HTML, CSS, JavaScript
-- Deployment: Vercel
-- Payment Integration: Razorpay
-
-## Getting Started
-
-```bash
-git clone https://github.com/your-username/velos.git
-cd velos
+**Wear with purpose. Dress with heart. That’s Velos.**
